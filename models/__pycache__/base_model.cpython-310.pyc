@@ -1,0 +1,30 @@
+o
+ ) zDefines the BaseModel class.é    N)o
+    ø£ïbo  ã               Úuuid4)o
+ t
+j 
+| ¡seModelz-Represents the BasseModelz-Represents the Bas dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%frseModelz-Represents the Bas   Ú
+created_attrptime__dict__Úmodel
+ trptime__dict__Úmodel
+trptime__dict__Úmodel
+trptime__dict__Úmodeltrptime__dict__Úmodeltrptime__dict__Úmodeltrptime__dict__Útrptime__dict__Úmodeltrptime__dict__ÚmodelüzaseModel.__init__ctrptime__dict__Úmodel           trptime__dict__Úmodel      C   save)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           
+nary of the BaseModel instance.
+
+        Includes the key/value pair __class__ representing
+        the class name of the object.
+        r   r   Ú	__class__) r
+Úcopyr   Z	isoformatr   r   __name__)r   Zrdictr   r      Ú to_dict$   s
+   
+tr representation of the BaseModel instance.z[{}] ({}) {})r   r   Úformat   r
+)r   Zclnamer   r      Ú __str__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú __doc__r   r    r   r   r   r   r      r     s  r   )r"   representing   Zuuidr  
+dule>tr representation of the BaseModel instance.z[{}] ({}) {})r   r   Úformat   r
+)r   Zclnamer   r      Ú __str__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú __doc__r   r    r   r   r   r   r      r     s  r   )r"   representing   Zuuidr     s
+
